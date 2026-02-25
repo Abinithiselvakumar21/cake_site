@@ -1,0 +1,80 @@
+.apress-support-links > a {
+    color: red;
+}
+
+.redux-container #redux-form-wrapper .redux-main .fusion_theme_options-social_media_icons .ui-accordion-content .redux-field-container {
+  padding: 5px 0 25px;
+}
+.redux-container #redux-form-wrapper .redux-main .fusion_theme_options-social_media_icons .ui-accordion-content .redux-field-container input {
+  width: 100% !important;
+}
+.redux-container #redux-form-wrapper .redux-main .fusion_theme_options-social_media_icons .ui-accordion-content .wp-picker-input-wrap .button-small {
+  padding: 0 16px 1px;
+}
+
+.redux-main .button.remove-image:hover,.redux-main .removeCSS:hover{
+    color:red
+}
+.redux-main .upload_button_div{
+    margin-bottom:5px
+}
+.redux-main .upload-error{
+    float:left;
+    color:#666;
+    font-size:10px;
+    font-weight:700;
+    text-decoration:none;
+    text-shadow:1px 1px 0 #FFF;
+    margin:0 10px 0 0;
+    padding:3px 10px;
+    background:#FFDFEC;
+    -webkit-border-radius:4px;
+    -moz-border-radius:4px;
+    border-radius:4px
+}
+.redux-main .reset-button{
+    font-family:Arial,Verdana,sans-serif;
+    float:left;
+    margin:0;
+    color:#ef521d;
+    border-color:#bbb
+}
+.redux-main .redux-option-image{
+    max-height:340px;
+    max-width:340px;
+    padding:5px;
+    margin-bottom:0;
+    margin-top:10px;
+    margin-right:15px;
+    border:1px solid #e3e3e3;
+    background:#f7f7f7;
+    -moz-border-radius:3px;
+    -khtml-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px
+}
+.redux-main .redux-main .upload{
+    width:80%!important
+}
+.redux-main .button{
+    margin-top:2px
+}
+.redux-container .fusion_theme_options-custom_fonts fieldset.redux-field[data-id="custom_fonts"] fieldset.redux-container-media input[type="text"] {
+  display: inline-block;
+  max-width: calc(100% - 80px);
+  float: left;
+  height: 31px;
+  margin: 0 10px 0 0;
+}
+.redux-container .fusion_theme_options-custom_fonts fieldset.redux-field[data-id="custom_fonts"] fieldset.redux-container-media .upload_button_div {
+  display: inline-block;
+  vertical-align: top;
+}
+.redux-container .fusion_theme_options-custom_fonts fieldset.redux-field[data-id="custom_fonts"] fieldset.redux-container-media .upload_button_div span {
+  margin-top: 0;
+}
+.rtl .redux-container #redux-form-wrapper .redux-main .fusion_theme_options-custom_fonts fieldset.redux-field[data-id="custom_fonts"] fieldset.redux-container-media input[type="text"] {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0;
+}

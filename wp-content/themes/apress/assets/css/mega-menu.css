@@ -1,0 +1,62 @@
+.zolo-mega-menu-options {
+    margin-top: 10px;
+}
+
+.field-megamenu-status,
+.field-megamenu-width,
+.field-megamenu-columns,
+.field-megamenu-title,
+.field-megamenu-widgetarea,
+.field-megamenu-type,
+.field-megamenu-block,
+.field-megamenu-design,
+.field-megamenu-pagewidth,
+.field-megamenu-pageheight{
+	display: none;
+}
+
+.menu-item-depth-0 .field-megamenu-status,
+.menu-item-depth-0.zolo-megamenu .field-megamenu-type,
+.menu-item-depth-0.zolo-megamenu .field-megamenu-width,
+.menu-item-depth-0.zolo-megamenu .field-megamenu-design,
+.menu-item-depth-0.zolo-megamenu .field-megamenu-columns,
+.menu-item-depth-1.zolo-megamenu .field-megamenu-title,
+.menu-item-depth-1.zolo-megamenu .field-megamenu-widgetarea,
+.menu-item-depth-2.zolo-megamenu .field-megamenu-widgetarea{
+	display: block;
+}
+
+
+.menu-item-depth-0.zolo-megamenu.page-editor .field-megamenu-type,
+.menu-item-depth-0.zolo-megamenu.page-editor .field-megamenu-block,
+.menu-item-depth-0.zolo-megamenu.page-editor .field-megamenu-design{
+display: block;
+}
+
+.menu-item-depth-0.zolo-megamenu.page-editor .field-megamenu-columns{
+	display: none;
+}	
+
+.zolo-megamenu .zolo-megamenu-upload-thumbnail {
+	display: inline-block;
+}
+
+.zolo-megamenu-thumbnail-image {
+	max-width: 300px;
+}
+
+.menu-item-depth-0 .zolo-megamenu-upload-thumbnail,
+.menu-item-depth-1 .zolo-megamenu-upload-thumbnail,
+.menu-item-depth-2 .zolo-megamenu-upload-thumbnail {
+	margin-top: 0 !important;
+}
+
+.zolo-megamenu-upload-thumbnail {
+	margin-top: 0.6em !important;
+}
+
+.menu-item-settings::after {
+    clear: both;
+    content: "";
+    display: block;
+}

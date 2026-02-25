@@ -1,0 +1,17 @@
+/*
+Theme Name: Apress Child
+Description: APRESS is a clean and modern Creative Multiuse Multipurpose WordPress Theme built with lot of insights and suggestions behind it.
+Author: Apress Themes
+Theme URI: http://apresswp.com/
+Author URI: https://themeforest.net/user/apressthemes
+Version: 1.1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: apress
+Template: apress
+*/
+
+body{}
+@media (max-width:1050px) {.mob_nav_icon_area{ display:table-cell; vertical-align:middle; width:140px;}}
+
+
